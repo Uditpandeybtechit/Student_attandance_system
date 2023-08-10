@@ -1,6 +1,6 @@
 # uditproject3
 
-## Student Attendance system
+## Student Attendance system using php
 ## Acknowledgements
 
  - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
